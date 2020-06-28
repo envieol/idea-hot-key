@@ -1,1 +1,29 @@
 # idea-hot-key
+
+- 选择下个单词:ctrl + shift + ->
+- 逐渐选择代码块:ctrl + W
+- 缩小选择代码块:ctrl + shift + W
+- 复制行:ctrl  + D
+- 删除行:ctrl + X
+- 移动行:alt + shift + up/down
+- 移动方法:ctrl + shift +up/down
+- 折叠/张开方法: ctrl  + -/+
+- 折叠/张开全部方法: ctrl + shift + -/+
+- surround & unwrap(if else / try catch):ctrl + alt + T  &  ctrl + shift + DLETE
+- 补全代码: ctrl + space (static 摁两次) 接着摁TAB
+- 完成statement: ctrl + shift + enter
+- 类型补全: ctrl + shift + space
+- 查看parameter信息 ctrl + P
+- 查看document:ctrl + Q
+- 查看definition:ctrl + shift + I
+- 查看错误:F2
+- 错误提示:alt + enter
+- HighLight: ctrl + shift +F7
+- 查看source:F4
+- 跳到declaration:ctrl + B
+- 查看实现类:ctrl + alt + B
+- 查看文件结构:ctrl + F12
+- find action:select word & ctrl + F 然后摁 ESC 再摁F3 快速找下一个 摁shift + F3 快速找上一个
+- rename : select 然后 ctrl+F6
+- extract方法: ctrl + alt +M
+- extract表达式作为常量:ctrl + alt +C
